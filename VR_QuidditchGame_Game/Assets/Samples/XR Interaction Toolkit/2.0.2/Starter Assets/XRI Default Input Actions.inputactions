@@ -233,7 +233,7 @@
                 {
                     "name": "",
                     "id": "900272c9-e537-44cc-a217-9e8c80995f53",
-                    "path": "<XRController>{RightHand}/grip",
+                    "path": "<XRController>{LeftHand}/grip",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
